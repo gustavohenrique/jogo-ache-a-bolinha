@@ -5,8 +5,8 @@ jogo-ache-a-bolinha
 
 ### Sobre
 
-Remake do jogo Game of Shells utilizando Javascript + Jquery. 
-Test unitarios usando Mocha + Chai.
+Remake do jogo Game of Shells utilizando Javascript + Jquery.  
+Testes unitarios usando Mocha + Chai.
 
 ### Setup
 
@@ -14,6 +14,10 @@ Test unitarios usando Mocha + Chai.
     npm install -g bower
     bower install
     ./node_modules/.bin/gulp watch
+
+Para build:
+
+    ./node_modules/.bin/gulp build
 
 ### License
 
