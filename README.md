@@ -1,12 +1,10 @@
 jogo-ache-a-bolinha
 ===================
 
-[![Screenshot](https://github.com/gustavohenrique/jogo-ache-a-bolinha/raw/master/screenshot.png)](#)
+> Remake do jogo Game of Shells utilizando Javascript + Jquery e Mocha + Chai para testes unitarios
 
-### Sobre
+[![Demo](https://github.com/gustavohenrique/jogo-ache-a-bolinha/raw/master/screenshot.png)](http://goo.gl/j7FyCa)
 
-Remake do jogo Game of Shells utilizando Javascript + Jquery.  
-Testes unitarios usando Mocha + Chai.
 
 ### Setup
 
