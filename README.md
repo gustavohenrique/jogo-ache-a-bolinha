@@ -1,21 +1,30 @@
-jogo-ache-a-bolinha
-===================
+Game of Shells
+==============
 
-> Remake do jogo Game of Shells utilizando Javascript + Jquery e Mocha + Chai para testes unitarios
+[![Demo](https://github.com/gustavohenrique/jogo-ache-a-bolinha/raw/master/screenshot.png)](https://gustavohenrique.github.io/jogo-ache-a-bolinha)
 
-[![Demo](https://github.com/gustavohenrique/jogo-ache-a-bolinha/raw/master/screenshot.png)](http://goo.gl/j7FyCa)
+### Technologies
 
+* JQuery
+* Mocha
+* Chai
+* Gulp
+* Bower
 
 ### Setup
 
-    npm install
-    npm install -g bower
-    bower install
-    ./node_modules/.bin/gulp watch
+```shell
+npm install
+npm install -g bower
+bower install
+./node_modules/.bin/gulp watch
+```
 
 Para build:
 
-    ./node_modules/.bin/gulp build
+```shell
+./node_modules/.bin/gulp build
+```
 
 ### License
 
